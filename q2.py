@@ -1,4 +1,4 @@
-A= "Yeh Kya Chutiyapa Hai"
+A= "string"
 z = len(A)
 Ab = list(A) 
 b=[0]*26
